@@ -1,0 +1,17 @@
+fe2386e96b4da9ddf79b6553d55a0906 *DESCRIPTION
+3dce3a7b2fdc5bfd0097c303b65e679a *NAMESPACE
+8d8b6120165da94e86087de1e4cfdd0a *NEWS.md
+c5f727ee3de721b028348c6cf29315d1 *R/build_calls.R
+58cfffb3b594b418b9144d105d360a30 *R/build_placeholder_fun.R
+9563facd1815457ac5f9e16e8a245ca7 *R/deparse.R
+3d6a4c07530f050bcfad2328d6977c5a *R/doubt.R
+39ea6c261f721f4cf6215dd79eca9f4a *R/register_ops.R
+c18f5ec137104acaa173fde04ebc48f5 *R/utils.R
+27f2051f6b7af475cea2e8778b33e441 *R/zz.R
+f16eeb61194fee7031d4f08ba9f97ced *README.md
+0106551992aff786bbb40ab289f211de *man/figures/logo.png
+c4bfb6cb1f65c2b4348025cf7fe8d9ac *man/figures/logo.svg
+2f0c922d81bc744bd1e64d3cabf6bdc4 *man/help.Rd
+02542722269ed85e50607567d16c9753 *man/register_dubious_syntaxes.Rd
+9a613052c0b7b1aeb6b58fff9bc7f59d *tests/testthat.R
+7f3a7d3e0c13d0d4d03dd29a7448551a *tests/testthat/test-doubt.R

@@ -1,0 +1,4 @@
+export("?")
+export(register_dubious_syntaxes)
+importFrom(stats,ave)
+importFrom("methods", "allNames", "existsFunction")
